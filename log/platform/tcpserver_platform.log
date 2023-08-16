@@ -2141,3 +2141,370 @@
 success:864452061622070,16 03 00 10 00 0E C6 EC
 success:864452061622070,17 03 00 10 00 0E C7 3D
 
+2023-08-16 11:14:56.494 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:14:57.975 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155697357}
+2023-08-16 11:14:58.036 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+fail:864452061622070,15 03 00 10 00 0E C6 DF
+fail:864452061622070,16 03 00 10 00 0E C6 EC
+fail:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:15:08.039 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:15:08.040 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:15:08.057 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155708044}
+2023-08-16 11:15:08.060 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+fail:864452061622070,15 03 00 10 00 0E C6 DF
+fail:864452061622070,16 03 00 10 00 0E C6 EC
+fail:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:15:18.062 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:15:18.064 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:15:18.076 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155718066}
+2023-08-16 11:15:18.078 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+fail:864452061622070,15 03 00 10 00 0E C6 DF
+fail:864452061622070,16 03 00 10 00 0E C6 EC
+fail:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:15:28.084 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:15:28.085 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:15:28.098 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155728088}
+2023-08-16 11:15:28.103 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+fail:864452061622070,15 03 00 10 00 0E C6 DF
+fail:864452061622070,16 03 00 10 00 0E C6 EC
+fail:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:15:38.106 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:15:38.107 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:15:38.122 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155738110}
+2023-08-16 11:15:38.128 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+fail:864452061622070,15 03 00 10 00 0E C6 DF
+fail:864452061622070,16 03 00 10 00 0E C6 EC
+fail:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:15:48.131 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:15:48.132 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:15:48.152 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155748138}
+2023-08-16 11:15:48.161 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:15:58.172 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:15:58.174 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:15:58.189 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155758178}
+2023-08-16 11:15:58.194 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:16:08.197 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:16:08.199 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:16:08.211 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155768202}
+2023-08-16 11:16:08.213 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:16:18.216 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:16:18.217 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:16:18.230 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155778220}
+2023-08-16 11:16:18.231 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:16:28.234 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:16:28.235 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:16:28.253 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155788239}
+2023-08-16 11:16:28.255 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:16:38.258 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:16:38.259 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:16:38.273 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155798262}
+2023-08-16 11:16:38.275 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:16:48.276 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:16:48.278 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:16:48.291 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155808281}
+2023-08-16 11:16:48.296 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:16:58.301 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:16:58.302 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:16:58.446 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155818304}
+2023-08-16 11:16:58.449 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:17:08.457 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:17:08.458 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:17:08.469 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155828460}
+2023-08-16 11:17:08.470 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:17:18.471 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:17:18.472 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:17:18.481 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155838474}
+2023-08-16 11:17:18.482 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:17:28.484 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:17:28.485 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:17:28.527 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155848491}
+2023-08-16 11:17:28.531 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:17:38.534 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:17:38.535 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:17:38.547 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155858538}
+2023-08-16 11:17:38.548 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:17:48.550 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:17:48.551 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:17:48.606 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155868553}
+2023-08-16 11:17:48.608 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:17:58.611 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:17:58.613 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:17:58.625 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155878615}
+2023-08-16 11:17:58.627 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:18:08.630 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:18:08.631 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:18:08.643 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155888632}
+2023-08-16 11:18:08.646 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:18:18.650 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:18:18.651 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:18:18.668 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155898653}
+2023-08-16 11:18:18.669 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:18:28.672 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:18:28.673 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:18:28.687 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155908675}
+2023-08-16 11:18:28.689 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:18:38.691 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:18:38.692 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:18:38.724 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155918695}
+2023-08-16 11:18:38.727 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:18:48.729 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:18:48.730 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:18:48.739 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155928732}
+2023-08-16 11:18:48.742 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:18:58.744 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:18:58.745 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:18:58.755 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155938747}
+2023-08-16 11:18:58.756 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:19:08.758 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:19:08.759 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:19:08.768 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155948762}
+2023-08-16 11:19:08.773 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:19:18.776 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:19:18.777 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:19:18.786 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155958779}
+2023-08-16 11:19:18.789 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:19:28.793 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:19:28.794 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:19:28.803 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155968796}
+2023-08-16 11:19:28.806 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:19:38.808 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:19:38.810 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:19:38.828 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155978812}
+2023-08-16 11:19:38.844 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:19:48.848 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:19:48.848 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:19:48.900 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155988852}
+2023-08-16 11:19:48.902 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:19:58.903 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:19:58.904 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:19:58.913 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692155998906}
+2023-08-16 11:19:58.914 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:20:08.916 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:20:08.917 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:20:08.929 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156008919}
+2023-08-16 11:20:08.930 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:20:18.932 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:20:18.933 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:20:18.945 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156018935}
+2023-08-16 11:20:18.946 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:20:28.949 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:20:28.950 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:20:28.959 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156028952}
+2023-08-16 11:20:28.960 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:20:38.961 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:20:38.962 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:20:38.973 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156038964}
+2023-08-16 11:20:38.978 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:20:48.982 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:20:48.983 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:20:48.992 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156048985}
+2023-08-16 11:20:48.996 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:20:58.999 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:20:58.999 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:20:59.010 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156059002}
+2023-08-16 11:20:59.015 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:21:09.017 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:21:09.019 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:21:09.027 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156069021}
+2023-08-16 11:21:09.032 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:21:19.035 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:21:19.036 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:21:19.074 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156079038}
+2023-08-16 11:21:19.076 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:21:29.081 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:21:29.082 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:21:29.094 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156089085}
+2023-08-16 11:21:29.100 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:21:39.102 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:21:39.103 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:21:39.156 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156099106}
+2023-08-16 11:21:39.161 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:21:49.164 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:21:49.165 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:21:49.174 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156109167}
+2023-08-16 11:21:49.178 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:21:59.182 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:21:59.183 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:21:59.197 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156119186}
+2023-08-16 11:21:59.199 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:22:09.203 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:22:09.204 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:22:09.216 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156129206}
+2023-08-16 11:22:09.217 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:22:19.219 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:22:19.220 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:22:19.233 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156139223}
+2023-08-16 11:22:19.235 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
+2023-08-16 11:22:29.238 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!完成
+2023-08-16 11:22:29.239 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询数据请求!
+2023-08-16 11:22:29.253 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : 发送查询请求，url：http://127.0.0.1:8080/tcp/downDataToClient，参数：{"port":10001,"cmds":[{"imei":"864452061622070","cmd":"15 03 00 10 00 0E C6 DF"},{"imei":"864452061622070","cmd":"16 03 00 10 00 0E C6 EC"},{"imei":"864452061622070","cmd":"17 03 00 10 00 0E C7 3D"}],"ip":"10.11.21.99","client":"ML_L701P","time":1692156149241}
+2023-08-16 11:22:29.255 - INFO  [         task-1] c.h.c.m.Mll710pApplication     : tcp server处理结果：
+success:864452061622070,15 03 00 10 00 0E C6 DF
+success:864452061622070,16 03 00 10 00 0E C6 EC
+success:864452061622070,17 03 00 10 00 0E C7 3D
+
