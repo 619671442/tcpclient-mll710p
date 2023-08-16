@@ -1,0 +1,254 @@
+2023-08-16 09:34:30.831 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 12080 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:34:30.843 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:34:32.829 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 8080 (http)
+2023-08-16 09:34:32.869 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-8080"]
+2023-08-16 09:34:32.891 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:34:32.917 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:34:33.170 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:34:33.171 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2157 ms
+2023-08-16 09:34:34.808 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-8080"]
+2023-08-16 09:34:34.830 - WARN  [           main] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8080 is already in use
+2023-08-16 09:34:34.844 - INFO  [           main] o.a.j.l.DirectJDKLog           : Pausing ProtocolHandler ["http-nio-8080"]
+2023-08-16 09:34:34.845 - INFO  [           main] o.a.j.l.DirectJDKLog           : Stopping service [Tomcat]
+2023-08-16 09:34:34.868 - INFO  [           main] o.a.j.l.DirectJDKLog           : Stopping ProtocolHandler ["http-nio-8080"]
+2023-08-16 09:34:34.882 - INFO  [           main] o.a.j.l.DirectJDKLog           : Destroying ProtocolHandler ["http-nio-8080"]
+2023-08-16 09:34:34.897 - INFO  [           main] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 09:35:10.381 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 11796 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:35:10.399 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:35:12.550 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:35:12.565 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:35:12.567 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:35:12.672 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:35:12.936 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:35:12.937 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2390 ms
+2023-08-16 09:35:14.582 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:35:14.883 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 09:35:14.966 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 5.273 seconds (JVM running for 6.659)
+2023-08-16 09:36:13.897 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 6712 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:36:13.910 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:36:16.137 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:36:16.153 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:36:16.155 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:36:16.158 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:36:16.426 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:36:16.428 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2397 ms
+2023-08-16 09:36:18.157 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:36:18.170 - WARN  [           main] c.s.AbstractApplicationContext : Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 10001 is already in use
+2023-08-16 09:36:18.180 - INFO  [           main] o.a.j.l.DirectJDKLog           : Pausing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:36:18.181 - INFO  [           main] o.a.j.l.DirectJDKLog           : Stopping service [Tomcat]
+2023-08-16 09:36:18.189 - INFO  [           main] o.a.j.l.DirectJDKLog           : Stopping ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:36:18.191 - INFO  [           main] o.a.j.l.DirectJDKLog           : Destroying ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:36:18.236 - INFO  [           main] valuationReportLoggingListener : 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 09:36:35.384 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 5696 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:36:35.399 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:36:37.506 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:36:37.528 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:36:37.544 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:36:37.545 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:36:37.740 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:36:37.741 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2220 ms
+2023-08-16 09:36:39.219 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:36:39.472 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 09:36:39.731 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 5.034 seconds (JVM running for 6.528)
+2023-08-16 09:36:40.210 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 09:36:40.591 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 09:38:02.035 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 8264 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:38:02.055 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:38:04.001 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:38:04.055 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:38:04.056 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:38:04.062 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:38:04.319 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:38:04.319 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2125 ms
+2023-08-16 09:38:06.053 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:38:06.335 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 09:38:06.572 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 5.16 seconds (JVM running for 6.439)
+2023-08-16 09:38:07.192 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 09:38:07.590 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 09:38:32.746 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 11604 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:38:32.758 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:38:35.113 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:38:35.129 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:38:35.139 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:38:35.174 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:38:35.739 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:38:35.748 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2799 ms
+2023-08-16 09:38:37.565 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:38:37.816 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 09:38:38.019 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 6.286 seconds (JVM running for 7.813)
+2023-08-16 09:38:38.664 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 09:38:38.997 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 09:40:29.977 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 7400 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:40:29.995 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:40:32.585 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:40:32.651 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:40:32.695 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:40:32.702 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:40:33.017 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:40:33.018 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2760 ms
+2023-08-16 09:40:34.746 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:40:34.933 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 09:40:35.153 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 5.949 seconds (JVM running for 7.356)
+2023-08-16 09:40:35.760 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 09:40:36.199 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 09:45:05.954 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 1336 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:45:05.969 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:45:08.309 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:45:08.323 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:45:08.324 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:45:08.336 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:45:08.644 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:45:08.645 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2463 ms
+2023-08-16 09:45:10.293 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:45:10.497 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 09:45:10.627 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 6.037 seconds (JVM running for 7.418)
+2023-08-16 09:48:28.727 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 3076 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:48:28.739 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:48:30.878 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:48:30.893 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:48:31.005 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:48:31.012 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:48:31.333 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:48:31.335 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2379 ms
+2023-08-16 09:48:32.991 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:48:33.167 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 09:48:33.375 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 5.274 seconds (JVM running for 6.75)
+2023-08-16 09:48:33.815 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 09:48:34.111 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 09:50:05.533 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 5492 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 09:50:05.545 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 09:50:08.004 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 09:50:08.019 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:50:08.020 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 09:50:08.021 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 09:50:08.371 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 09:50:08.373 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2593 ms
+2023-08-16 09:50:10.039 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 09:50:10.239 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 09:50:10.420 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 5.673 seconds (JVM running for 7.158)
+2023-08-16 09:50:10.962 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 09:50:11.407 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 10:33:32.299 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 5672 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 10:33:32.311 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:33:34.788 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 10:33:34.835 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:33:34.836 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 10:33:34.837 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 10:33:35.113 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 10:33:35.114 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2685 ms
+2023-08-16 10:33:36.440 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:33:36.570 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 10:33:36.681 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 4.973 seconds (JVM running for 6.586)
+2023-08-16 10:33:36.949 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 10:33:37.218 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 10:34:12.199 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 11608 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 10:34:12.211 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:34:14.306 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 10:34:14.364 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:34:14.366 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 10:34:14.367 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 10:34:14.643 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 10:34:14.644 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2334 ms
+2023-08-16 10:34:15.934 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:34:16.030 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 10:34:16.144 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 4.489 seconds (JVM running for 5.738)
+2023-08-16 10:34:16.383 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 10:34:16.670 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 10:37:20.186 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 2432 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 10:37:20.199 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:37:22.243 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 10:37:22.259 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:37:22.276 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 10:37:22.279 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 10:37:22.507 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 10:37:22.508 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2165 ms
+2023-08-16 10:37:24.185 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:37:24.294 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 10:37:24.432 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 4.909 seconds (JVM running for 6.465)
+2023-08-16 10:37:24.793 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 10:37:25.088 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 10:37:50.829 - INFO  [           main] bstractTestContextBootstrapper : Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.hcjc666.client.mll710p.Mll710pApplicationTests], using SpringBootContextLoader
+2023-08-16 10:37:50.839 - INFO  [           main] .s.t.c.s.AbstractContextLoader : Could not detect default resource locations for test class [com.hcjc666.client.mll710p.Mll710pApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2023-08-16 10:37:50.841 - INFO  [           main] tationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.hcjc666.client.mll710p.Mll710pApplicationTests]: Mll710pApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2023-08-16 10:37:51.094 - INFO  [           main] ingBootTestContextBootstrapper : Found @SpringBootConfiguration com.hcjc666.client.mll710p.Mll710pApplication for test class com.hcjc666.client.mll710p.Mll710pApplicationTests
+2023-08-16 10:37:51.267 - INFO  [           main] bstractTestContextBootstrapper : Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2023-08-16 10:37:51.292 - INFO  [           main] bstractTestContextBootstrapper : Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@464a4442, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2873d672, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@3bc735b3, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@577f9109, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@4303b7f0, org.springframework.test.context.support.DirtiesContextTestExecutionListener@757529a4, org.springframework.test.context.transaction.TransactionalTestExecutionListener@779de014, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@5c41d037, org.springframework.test.context.event.EventPublishingTestExecutionListener@2234078, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@5ec77191, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@4642b71d, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@1450078a, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@c68a5f8, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@69c6161d, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@3aefae67]
+2023-08-16 10:37:51.972 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplicationTests using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 3508 (started by Administrator in d:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 10:37:51.977 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:37:55.877 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplicationTests in 4.267 seconds (JVM running for 6.774)
+2023-08-16 10:37:56.321 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 10:37:56.811 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 10:37:57.611 - INFO  [ionShutdownHook] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown initiated...
+2023-08-16 10:37:57.700 - INFO  [ionShutdownHook] c.z.h.HikariDataSource         : HikariPool-1 - Shutdown completed.
+2023-08-16 10:38:08.966 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 9272 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 10:38:08.988 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:38:10.977 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 10:38:11.026 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:38:11.084 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 10:38:11.088 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 10:38:11.420 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 10:38:11.420 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2340 ms
+2023-08-16 10:38:12.726 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:38:12.834 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 10:38:12.992 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 4.632 seconds (JVM running for 6.081)
+2023-08-16 10:38:13.280 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 10:38:13.612 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 10:39:19.979 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 7400 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 10:39:19.999 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:39:21.779 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 10:39:21.824 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:39:21.839 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 10:39:21.851 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 10:39:22.106 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 10:39:22.107 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1967 ms
+2023-08-16 10:39:23.600 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:39:23.777 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 10:39:23.977 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 4.703 seconds (JVM running for 6.301)
+2023-08-16 10:39:24.445 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 10:39:24.858 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 10:40:59.165 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 11972 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 10:40:59.178 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:41:01.220 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 10:41:01.269 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:41:01.319 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 10:41:01.435 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 10:41:01.704 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 10:41:01.705 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2367 ms
+2023-08-16 10:41:03.249 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:41:03.495 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 10:41:03.612 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 5.089 seconds (JVM running for 6.494)
+2023-08-16 10:41:04.263 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 10:41:04.693 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 10:41:48.929 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 10972 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 10:41:48.974 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 10:41:51.563 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 10:41:51.582 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:41:51.664 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 10:41:51.704 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 10:41:52.091 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 10:41:52.092 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2956 ms
+2023-08-16 10:41:53.860 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 10:41:53.918 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 10:41:54.304 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 6.205 seconds (JVM running for 7.625)
+2023-08-16 10:41:54.924 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 10:41:55.311 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 11:06:33.173 - INFO  [           main] o.s.b.StartupInfoLogger        : Starting Mll710pApplication using Java 17.0.2 on WIN-FTAVFI9M4SP with PID 4796 (D:\CODE\tcpclient\mll710p\mll710p\target\classes started by Administrator in D:\CODE\tcpclient\mll710p\mll710p)
+2023-08-16 11:06:33.186 - INFO  [           main] o.s.b.SpringApplication        : No active profile set, falling back to 1 default profile: "default"
+2023-08-16 11:06:35.324 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat initialized with port(s): 10001 (http)
+2023-08-16 11:06:35.379 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing ProtocolHandler ["http-nio-10001"]
+2023-08-16 11:06:35.393 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting service [Tomcat]
+2023-08-16 11:06:35.406 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting Servlet engine: [Apache Tomcat/9.0.68]
+2023-08-16 11:06:35.704 - INFO  [           main] o.a.j.l.DirectJDKLog           : Initializing Spring embedded WebApplicationContext
+2023-08-16 11:06:35.706 - INFO  [           main] letWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2396 ms
+2023-08-16 11:06:37.226 - INFO  [           main] o.a.j.l.DirectJDKLog           : Starting ProtocolHandler ["http-nio-10001"]
+2023-08-16 11:06:37.455 - INFO  [           main] o.s.b.w.e.t.TomcatWebServer    : Tomcat started on port(s): 10001 (http) with context path ''
+2023-08-16 11:06:37.893 - INFO  [           main] o.s.b.StartupInfoLogger        : Started Mll710pApplication in 5.034 seconds (JVM running for 6.569)
+2023-08-16 11:06:38.279 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Starting...
+2023-08-16 11:06:38.592 - INFO  [         task-1] c.z.h.HikariDataSource         : HikariPool-1 - Start completed.
+2023-08-16 11:13:36.309 - INFO  [io-10001-exec-1] o.a.j.l.DirectJDKLog           : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-08-16 11:13:36.310 - INFO  [io-10001-exec-1] o.s.w.s.FrameworkServlet       : Initializing Servlet 'dispatcherServlet'
+2023-08-16 11:13:36.312 - INFO  [io-10001-exec-1] o.s.w.s.FrameworkServlet       : Completed initialization in 2 ms
